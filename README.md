@@ -1,6 +1,10 @@
 
 # Delta (Python Port)
 
+A fork of quill-delta-python-1.0.3 with updated lxml dependencies for python 3.14 and up
+
+https://github.com/forgeworks/quill-delta-python
+
 Python port of the javascript Delta library for QuillJS: https://github.com/quilljs/delta
 
 Some basic pythonizing has been done, but mostly it works exactly like the above library.
